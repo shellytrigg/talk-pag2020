@@ -12,7 +12,7 @@ Aquaculture Workshop
 Saturday, January 11 8:00 AM - 18:10 PM
 
 **Slide deck:** 
-
+- PDF version: [TRIGG_PAG2020.pdf](https://github.com/shellytrigg/talk-pag2020/blob/master/STRIGG_PAG2020.pdf)
 - ppt version: [STRIGG_PAG2020.pptx](https://github.com/shellytrigg/talk-pag2020/blob/master/STRIGG_PAG2020.pptx)
 
 **Bio:**  Shelly Trigg is a postdoctoral research associate at the School of Aquatic and Fishery Sciences at the University of Washington in the lab of Steven Roberts. Dr. Trigg received her Ph.D. in Biology at the University of California San Diego in 2018. Her main research interest is the response of aquatic species to environmental change with a focus on molecular networks and physiology.
